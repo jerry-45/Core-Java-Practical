@@ -19,12 +19,7 @@ If you detected any mistake please fork & fix it or contact the owner.
 | Practical No. | Question No. | Aim |
 |---------------|--------------|-----|
 |1              |A             |Write a Java program that takes a number as input and print its multiplication table |
-|1              |B             |Write a Java program to display the following pattern.
-*
-* *
-* * *
-* * * *
-* * * * *|
+|1              |B             |Write a Java program to display the following pattern.|
 |1              |C              |Write a Java program to print the area and perimeter of a triangle.|
 |2              |A              |Write a Java program to add two binary numbers.|
 |2              |B              |Write a Java program to convert a decimal number to binary number and vice versa.|
