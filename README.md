@@ -3,14 +3,14 @@
 ---
 
 ## 📢 Highlights 
-We have checked the entire codebase for syntax and runtime errors but we really cannot say anything about **Logical Errors**.
+I have checked the entire codebase for syntax and runtime errors but we really cannot say anything about **Logical Errors**.
 
 🚫 **You have been warned!**
 
 ---
 
 ## 🎯 Notes & Comments 
-If you detected any mistake please fork & fix it or contact the owner.
+If you detected any mistake please fork & fix it.
 
 ---
 
